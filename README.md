@@ -32,4 +32,3 @@ Merge the remote branch into your branch.
 
 Push again.
 `git push origin intro<N>`
-
