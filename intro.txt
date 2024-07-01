@@ -1,2 +1,3 @@
-Name	Department
-----	----------
+Name		Department
+----		--------
+박민재	컴퓨터공학부
