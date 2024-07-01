@@ -1,10 +1,6 @@
 Name	Department
-
----	----------
+----    ----------
 shimhun computer engineering
 Seokminji computer science 
-
 심재성	컴퓨터전자시스템공학부
-shimhun computer engineering4
 서지원  독일어통번역학부
-
