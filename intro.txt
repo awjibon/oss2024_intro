@@ -1,3 +1,5 @@
 Name	Department
 Dongkyu	computerEngineering
 김성준  철학과
+Walid 	CSE
+
