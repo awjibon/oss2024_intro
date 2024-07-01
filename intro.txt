@@ -1,3 +1,5 @@
 Name	Department
 --------	 ----------
 hwan seuk      CSE
+홍수지 정보통신공학과
+
