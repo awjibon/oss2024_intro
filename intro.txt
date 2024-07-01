@@ -1,3 +1,4 @@
 Name	Department
 ---	----------
 shimhun computer engineering
+Seokminji computer science 
