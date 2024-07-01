@@ -1,5 +1,6 @@
 Name	Department
 ----	----------
-
 김미리	스페인어통번역학과
+Dongkyu	computerEngineering
 김성준  철학과
+Walid 	CSE
