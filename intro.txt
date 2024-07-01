@@ -1,2 +1,3 @@
 Name	Department
 ----	----------
+Ryu jihee	Department of Indianstudies
