@@ -1,3 +1,6 @@
 Name	Department
 ----	----------
 이준열, Global Business & Technology 학부
+이은진, 컴퓨터공학과
+이웅, 전자공학과
+
