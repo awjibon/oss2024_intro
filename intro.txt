@@ -1,3 +1,2 @@
-
-심재성	컴퓨터전자시스템공학부
-shimhun computer engineering4
+Name	Department
+----	----------
