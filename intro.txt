@@ -2,5 +2,6 @@ Name	Department
 
 ----	----------
 오정빈    컴퓨터공학과
+Ryu jihee	Department of Indianstudies
 이영진,컴퓨터공학부-
 
